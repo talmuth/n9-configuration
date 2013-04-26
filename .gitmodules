@@ -1,0 +1,3 @@
+[submodule "billboard/scripts"]
+	path = billboard/scripts
+	url = git://github.com/harmattan/billboard-scripts.git

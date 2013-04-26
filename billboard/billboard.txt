@@ -1,0 +1,6 @@
+{{white}}{weekday}, {day}.{month-number}.{year}.
+{ussd-balance}, {{white}}⚡ {battery}%
+{events}
+{song?★}{song-artist}{song? ☊ }{song-title}
+{{green}}Wazapp: {wazapp-status}{{red}}{wazapp-status!Crashed}
+{cell-network}{cell-network!No network} // {network-name?AP: }{network-name}{network-name!Offline}
